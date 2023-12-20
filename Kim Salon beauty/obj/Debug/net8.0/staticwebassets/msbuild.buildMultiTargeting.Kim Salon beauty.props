@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Kim Salon beauty.props" />
+</Project>

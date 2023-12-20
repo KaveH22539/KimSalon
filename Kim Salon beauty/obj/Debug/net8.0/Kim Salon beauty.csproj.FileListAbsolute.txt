@@ -1,0 +1,30 @@
+C:\Users\karam\Desktop\Console\Kim Salon beauty\Kim Salon beauty\obj\Debug\net8.0\Kim Salon beauty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karam\Desktop\Console\Kim Salon beauty\Kim Salon beauty\obj\Debug\net8.0\Kim Salon beauty.AssemblyInfoInputs.cache
+C:\Users\karam\Desktop\Console\Kim Salon beauty\Kim Salon beauty\obj\Debug\net8.0\Kim Salon beauty.AssemblyInfo.cs
+C:\Users\karam\Desktop\Console\Kim Salon beauty\Kim Salon beauty\obj\Debug\net8.0\Kim Salon beauty.csproj.CoreCompileInputs.cache
+C:\Users\karam\Desktop\Console\Kim Salon beauty\Kim Salon beauty\obj\Debug\net8.0\Kim Salon beauty.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\karam\Desktop\Console\Kim Salon beauty\Kim Salon beauty\obj\Debug\net8.0\Kim Salon beauty.RazorAssemblyInfo.cache
+C:\Users\karam\Desktop\Console\Kim Salon beauty\Kim Salon beauty\obj\Debug\net8.0\Kim Salon beauty.RazorAssemblyInfo.cs
+C:\Users\karam\Desktop\Console\Kim Salon beauty\Kim Salon beauty\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\karam\Desktop\Console\Kim Salon beauty\Kim Salon beauty\bin\Debug\net8.0\appsettings.json
+C:\Users\karam\Desktop\Console\Kim Salon beauty\Kim Salon beauty\bin\Debug\net8.0\Kim Salon beauty.staticwebassets.runtime.json
+C:\Users\karam\Desktop\Console\Kim Salon beauty\Kim Salon beauty\bin\Debug\net8.0\Kim Salon beauty.exe
+C:\Users\karam\Desktop\Console\Kim Salon beauty\Kim Salon beauty\bin\Debug\net8.0\Kim Salon beauty.deps.json
+C:\Users\karam\Desktop\Console\Kim Salon beauty\Kim Salon beauty\bin\Debug\net8.0\Kim Salon beauty.runtimeconfig.json
+C:\Users\karam\Desktop\Console\Kim Salon beauty\Kim Salon beauty\bin\Debug\net8.0\Kim Salon beauty.dll
+C:\Users\karam\Desktop\Console\Kim Salon beauty\Kim Salon beauty\bin\Debug\net8.0\Kim Salon beauty.pdb
+C:\Users\karam\Desktop\Console\Kim Salon beauty\Kim Salon beauty\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\karam\Desktop\Console\Kim Salon beauty\Kim Salon beauty\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\karam\Desktop\Console\Kim Salon beauty\Kim Salon beauty\obj\Debug\net8.0\staticwebassets\msbuild.Kim Salon beauty.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\karam\Desktop\Console\Kim Salon beauty\Kim Salon beauty\obj\Debug\net8.0\staticwebassets\msbuild.build.Kim Salon beauty.props
+C:\Users\karam\Desktop\Console\Kim Salon beauty\Kim Salon beauty\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Kim Salon beauty.props
+C:\Users\karam\Desktop\Console\Kim Salon beauty\Kim Salon beauty\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Kim Salon beauty.props
+C:\Users\karam\Desktop\Console\Kim Salon beauty\Kim Salon beauty\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\karam\Desktop\Console\Kim Salon beauty\Kim Salon beauty\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\karam\Desktop\Console\Kim Salon beauty\Kim Salon beauty\obj\Debug\net8.0\scopedcss\bundle\Kim Salon beauty.styles.css
+C:\Users\karam\Desktop\Console\Kim Salon beauty\Kim Salon beauty\obj\Debug\net8.0\scopedcss\projectbundle\Kim Salon beauty.bundle.scp.css
+C:\Users\karam\Desktop\Console\Kim Salon beauty\Kim Salon beauty\obj\Debug\net8.0\Kim Salon beauty.dll
+C:\Users\karam\Desktop\Console\Kim Salon beauty\Kim Salon beauty\obj\Debug\net8.0\refint\Kim Salon beauty.dll
+C:\Users\karam\Desktop\Console\Kim Salon beauty\Kim Salon beauty\obj\Debug\net8.0\Kim Salon beauty.pdb
+C:\Users\karam\Desktop\Console\Kim Salon beauty\Kim Salon beauty\obj\Debug\net8.0\Kim Salon beauty.genruntimeconfig.cache
+C:\Users\karam\Desktop\Console\Kim Salon beauty\Kim Salon beauty\obj\Debug\net8.0\ref\Kim Salon beauty.dll

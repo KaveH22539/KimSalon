@@ -1,0 +1,33 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <img src="~/css/yyy.jpg" alt="Kim salon" width="1270" height="400">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p
+
+         <div>
+        <h2>Book Online</h2>
+        <form method="post" action="/BookOnline">
+            <label>Models:</label>
+            @foreach (var item in Model.ModelsList.Take(3))
+            {
+                <div>
+                    <input type="checkbox" name="selectedModels" value="@item.ModelName" />
+                    <label>@item.ModelName - @item.Price</label>
+                </div>
+            }
+
+            <label>Contact Number:</label>
+            <input type="text" name="contactNumber" required /><br />
+
+            <label>Email:</label>
+            <input type="email" name="katak@gmail.com" value ="" required /><br />
+
+            <button type="submit">Book Now</button>
+        </form>
+    </div>
+</div>
